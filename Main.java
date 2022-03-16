@@ -1,6 +1,6 @@
 /*
 ClassName: Main.java
-Author: Jamaine Drakes
+Author: Jamaine Drakes and Evan Leacock
 Purpose: 
 Start Date: Mar 13, 2022
 Last Edit: Mar 13, 2022
