@@ -73,7 +73,7 @@ public class Main extends JFrame implements ActionListener
 
 
 
-     //This function will maximise the frame
+     //This function will maximise the frames
      private static void maximiseFrame(JFrame fr)
      {
  
